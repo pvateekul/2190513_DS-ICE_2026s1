@@ -22,11 +22,13 @@
 
 6. DL (Template): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/03_AI_Coding_Assistant_Gemini_Colab_DL_Template.ipynb)
 
+<!-- 
 7. Python (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/04_AI_Coding_Assistant_Gemini_Colab_Python_Solution.ipynb)
 
 8. ML (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/05_AI_Coding_Assistant_Gemini_Colab_ML_Solution.ipynb)
 
-9. DL (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/06_AI_Coding_Assistant_Gemini_Colab_DL_Solution.ipynb)
+9. DL (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/06_AI_Coding_Assistant_Gemini_Colab_DL_Solution.ipynb) 
+-->
 
 ### Week02: Data Preparation
 
