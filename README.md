@@ -16,7 +16,7 @@
 
 3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>)
 
-4. Python (AI Coding Assistant): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/01_AI_Coding_Assistant_Gemini_Colab_Python_Template.ipynb)
+4. (Extra) Python - AI Coding Assistant: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/01_AI_Coding_Assistant_Gemini_Colab_Python_Template.ipynb)
 <!--
 5. ML (Template): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/02_AI_Coding_Assistant_Gemini_Colab_ML_Template.ipynb)
 
