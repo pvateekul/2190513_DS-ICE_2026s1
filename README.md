@@ -46,7 +46,7 @@
 #### Week03: Tree-based model, regression
 #### Week04: NN, kNN, GridSearch, Pipeline, Evaluation + Clustering
 
-1. Decision Trees: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v3.ipynb)
+1. Decision Trees with diabetes data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v4.ipynb)
 
 2. Linear Regression: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/2_Linear_Regression_v2.ipynb)
 
