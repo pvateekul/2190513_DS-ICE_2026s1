@@ -40,6 +40,7 @@
 
 4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab3_SplitTrainTest.ipynb)
 
+5. OneHotEncoder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
 
 
 ### Week03-04: Traditional ML
