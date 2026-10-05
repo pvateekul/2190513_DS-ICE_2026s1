@@ -53,7 +53,9 @@
 
 4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/4_Neural_Network_v3.ipynb)
 
-5. K Nearest Neighbors (GridSearchCV): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/5_K_Nearest_Neighbors_v3.ipynb)
+5-1. K Nearest Neighbors (GridSearchCV): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/5_K_Nearest_Neighbors_v3.ipynb)
+
+5-2. K Nearest Neighbors (Optuna): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/10_Optuna_Tutorial_PartB_KNeighborsClassifier.ipynb)
 
 6. Save and Load Model: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/7_Save_Load_Model_v2.ipynb)
 
