@@ -150,8 +150,10 @@
 
     - Other OCR (2) : Tesseract OCR: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/8_3_Tesseract_OCR.ipynb)
 
--->
+
 
 
 3. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/9_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
+
+-->
 
