@@ -86,6 +86,28 @@
 
 6. Time series Forecasting: Stock Price [`PyTorch`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
+
+### Week11: Visualization with Streamlit
+
+#### Streamlit Runner (for running files below in Colab) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/streamlit_runner.ipynb)
+
+1. Streamlit Layout: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/1_streamlit_layout.py)
+
+2. Streamlit Iris: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/2_streamlit_iris.py)
+
+3. Streamlit Iris (AI Gen) : [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/2-2_streamlit_iris_AI.py)
+
+4. Streamlit Gapminder: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/3_streamlit_gapminder.py)
+
+5. Streamlit Uber: [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/4_streamlit_uber.py)
+
+6. Dash Histogram: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/5_dash_histograms.ipynb)
+
+7. Dash Histogram (AI Gen): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/5-2_dash_histograms_AI.ipynb)
+
+8. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week10_Streamlit/6_dash_gapminder.ipynb)
+
+
 <!--
 ### Week06(1): Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
 
