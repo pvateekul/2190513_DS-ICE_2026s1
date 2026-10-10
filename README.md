@@ -43,7 +43,7 @@
 5. OneHotEncoder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
 
 
-### Week04-08: Traditional ML
+### Week04-09: Traditional ML
 
 1. Decision Trees with diabetes data: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/1_Decision_Trees_Random_Forests_v4.ipynb)
 
@@ -64,7 +64,7 @@
 8. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
 
-### Week 09: Intro to Deep Learning
+### Week 10: Intro to Deep Learning
 
 1. Image classification with CNN [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN_(lightning).ipynb)
 
