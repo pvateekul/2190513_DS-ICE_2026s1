@@ -12,23 +12,22 @@
 
 1. Pandas: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week01_Intro_Pandas/1_Pandas.ipynb)
 
-2. Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week01_Intro_Pandas/2_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>)
+2. Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week01_Intro_Pandas/2_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
-3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb>)
+3. (Advanced) Pandas with Youtube stat data: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week01_Intro_Pandas/3_Advanced_Pandas_%28Dataset_Trending_YouTube_Video_Statistics%29.ipynb)
 
 4. (Extra) Python - AI Coding Assistant: [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/01_AI_Coding_Assistant_Gemini_Colab_Python_Template.ipynb)
 <!--
 5. ML (Template): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/02_AI_Coding_Assistant_Gemini_Colab_ML_Template.ipynb)
 
 6. DL (Template): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/03_AI_Coding_Assistant_Gemini_Colab_DL_Template.ipynb)
--->
-<!-- 
+
 7. Python (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/04_AI_Coding_Assistant_Gemini_Colab_Python_Solution.ipynb)
 
 8. ML (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/05_AI_Coding_Assistant_Gemini_Colab_ML_Solution.ipynb)
 
-9. DL (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/06_AI_Coding_Assistant_Gemini_Colab_DL_Solution.ipynb) 
--->
+9. DL (Solution): [![Open In Colab](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/image/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/AI_Coder/06_AI_Coding_Assistant_Gemini_Colab_DL_Solution.ipynb)
+   -->
 
 ### Week03: Data Preparation
 
@@ -36,12 +35,11 @@
 
 2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic_Pipeline.ipynb)
 
-3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Diabetes_(optional).ipynb)
+3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Diabetes_(optional).ipynb>)
 
 4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab3_SplitTrainTest.ipynb)
 
 5. OneHotEncoder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
-
 
 ### Week04-09: Traditional ML
 
@@ -63,29 +61,27 @@
 
 8. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
-
 ### Week 10: Intro to Deep Learning
 
-1. Image classification with CNN [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN_(lightning).ipynb)
+1. Image classification with CNN [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN_(lightning).ipynb>)
 
 2. Image classification with Pretrained Model
 
-    2-1. Image classification with EfficientNetV2s [`PyTorch Lightning`] (~3 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2_(lightning).ipynb)
+   2-1. Image classification with EfficientNetV2s [`PyTorch Lightning`] (~3 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2_(lightning).ipynb>)
 
-    2-2. Image classification with EfficientNetb0 (Load a Pretrained Model from Hugging Face) [`PyTorch Lightning`] with Weights & Biases (~3 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/2_4_Image_classification_Animal_EfficientNet_(lightning)_wandb_HuggingFace.ipynb)
+   2-2. Image classification with EfficientNetb0 (Load a Pretrained Model from Hugging Face) [`PyTorch Lightning`] with Weights & Biases (~3 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/2_4_Image_classification_Animal_EfficientNet_(lightning)_wandb_HuggingFace.ipynb>)
 
 3. Object detection with YOLOv8
 
-    3-1. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`] (~20-30 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
+   3-1. Object detection with YOLOv8 (basic script) [`PyTorch Lightning`] (~20-30 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
 
-    3-2. Object detection with YOLOv8 (custom dataset) [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
+   3-2. Object detection with YOLOv8 (custom dataset) [`PyTorch Lightning`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
 
-4. Semantic segmentation with deeplabv3 [`PyTorch Lightning`] (~15 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD_(lightning).ipynb)
+4. Semantic segmentation with deeplabv3 [`PyTorch Lightning`] (~15 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](<https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD_(lightning).ipynb>)
 
-5. Image classification with ViT from Hugging Face & TensorBoard [`PyTorch`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week05_AdvancedML/5_1_Huggingface_image_classification_2025s1.ipynb)
+5. Image classification with ViT from Hugging Face & TensorBoard [`PyTorch`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week05_AdvancedML/5_1_Huggingface_image_classification_2026s1.ipynb)
 
 6. Time series Forecasting: Stock Price [`PyTorch`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
-
 
 ### Week11: Visualization with Streamlit
 
@@ -105,8 +101,35 @@
 
 7. Dash Histogram (AI Gen): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/5-2_dash_histograms_AI.ipynb)
 
-8. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2025s1/blob/main/code/Week10_Streamlit/6_dash_gapminder.ipynb)
+8. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/6_dash_gapminder.ipynb)
 
+### Week12: Webscraping
+
+1. Basic Web Scraping: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/webscraping/1_basic_web_scraping.ipynb)
+
+2. Wiki Scraping Example: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/webscraping/2_wiki_scraping_example.ipynb)
+
+3. REST API Extraction: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/webscraping/3_REST_API_extraction.ipynb)
+
+4. Selenium: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/webscraping/4_selenium.ipynb)
+
+### Week12: Fast API
+
+1-1. Simple: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/1_simple.ipynb)
+
+1-2. Simple Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/1_simple_request.ipynb)
+
+2-1. Path Param: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/2_path_param.ipynb)
+
+2-2. Path Param Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/2_path_param_request.ipynb)
+
+3-1. Post: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/3_post.ipynb)
+
+3-2. Post Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/3_post_request.ipynb)
+
+4-1. Put: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/4_put.ipynb)
+
+4-2. Put Request: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week12/fastapi/4_put_request.ipynb)
 
 <!--
 ### Week06(1): Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
@@ -122,11 +145,9 @@
 5. Basic LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/5_LLM_Basic_LangGraph.ipynb)
 
 6. RAG with LangChain and Agentic RAG with LangGraph [`API`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/6_LLM_RAG_LangChain_LangGraph.ipynb)
--->
-<!-- 
-7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb) -->
 
-<!--
+7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb)
+
 ### Week06(2): Text Classification
 
 1. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
@@ -137,7 +158,7 @@
 
 4. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`] Training duration ~10mins: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week05_AdvancedML/5_5_Multi_label_Text_Classification.ipynb)
 
-### Week06(3): Typhoon LLM 
+### Week06(3): Typhoon LLM
 
 1. Typhoon Text Model [`API / Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/7_Typhoon_Text_Inference.ipynb)
 
@@ -156,4 +177,3 @@
 3. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week06_GenerativeAI/9_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
 
 -->
-
