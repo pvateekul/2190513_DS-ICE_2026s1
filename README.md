@@ -83,7 +83,7 @@
 
 6. Time series Forecasting: Stock Price [`PyTorch`] (~10 min): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Week11: Visualization with Streamlit (credit by Aj.Veera)
+### Week11: Visualization with Streamlit (Credit by Aj.Veera)
 
 #### Streamlit Runner (for running files below in Colab) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/streamlit_runner.ipynb)
 
