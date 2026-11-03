@@ -103,7 +103,7 @@
 
 8. Dash Gapminder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/6_dash_gapminder.ipynb)
 
-9. (Extra) Gradio: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/gradio.ipynb) 
+9. (Extra) Gradio: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week11_Streamlit/gradio.ipynb)
 
 ### Week12: Webscraping
 
@@ -147,10 +147,20 @@
 
 6. RAG with LangChain and Agentic RAG with LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week13_GenAI/6_LLM_RAG_LangChain_LangGraph.ipynb) (loader/reader, splitter, embedding models, vector db, retrieve and generate)
 
-<!-- 
+### Class 14: End-to-End Pipeline (MLflow + MCP)
+
+1. MLflow [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week14/MLflow_2026.ipynb)
+
+2. MCP (Model Context Protocol)
+
+   2-1. AI Client [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DS-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week14/ai_client_with_mcp.ipynb)
+
+   2-2. MCP Server [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week14/mcp_server.py)
+
+   2-3. MCP Client [🔗](https://github.com/pvateekul/2190513_DS-ICE_2026s1/blob/main/code/Week14/mcp_client.py)
+
+<!--
 7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2190513_DSDE-ICE_2026s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2190513_DSDE-ICE_2026s1/blob/main/code/Week06_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb) -->
-
-
 
 <!--
 ### Week06(1): Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
